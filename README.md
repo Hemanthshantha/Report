@@ -1,56 +1,28 @@
-# Report
-Report
-Url: https://markdown-guide.readthedocs.io/en/latest/index.html
-Url: https://github.com/login
+# Welcome to Boostnote!
+## Click here to edit markdown :wave:
 
-1. Blockquotes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0qNPLsvmyM" frameborder="0" allowfullscreen></iframe>
 
-> ## Blockquoted header
->
-> This is blockquoted text.
->
-> This is a second paragraph within the blockquoted text.
+## Docs :memo:
+- [Boostnote | Boost your happiness, productivity and creativity.](https://hackernoon.com/boostnote-boost-your-happiness-productivity-and-creativity-315034efeebe)
+- [Cloud Syncing & Backups](https://github.com/BoostIO/Boostnote/wiki/Cloud-Syncing-and-Backup)
+- [How to sync your data across Desktop and Mobile apps](https://github.com/BoostIO/Boostnote/wiki/Sync-Data-Across-Desktop-and-Mobile-apps)
+- [Convert data from **Evernote** to Boostnote.](https://github.com/BoostIO/Boostnote/wiki/Evernote)
+- [Keyboard Shortcuts](https://github.com/BoostIO/Boostnote/wiki/Keyboard-Shortcuts)
+- [Keymaps in Editor mode](https://github.com/BoostIO/Boostnote/wiki/Keymaps-in-Editor-mode)
+- [How to set syntax highlight in Snippet note](https://github.com/BoostIO/Boostnote/wiki/Syntax-Highlighting)
 
-2.Code:Block
+---
 
-If you want to mark something as code, indent it by 4 spaces.
+## Article Archive :books:
+- [Reddit English](http://bit.ly/2mOJPu7)
+- [Reddit Spanish](https://www.reddit.com/r/boostnote_es/)
+- [Reddit Chinese](https://www.reddit.com/r/boostnote_cn/)
+- [Reddit Japanese](https://www.reddit.com/r/boostnote_jp/)
 
-    <p>This has been indented 4 spaces.</p>
+---
 
-3. Code: Inline
-
-    Markdown is a `<em>text-to-html</em>` conversion tool for writers.
-    
-
-4. Emphasis: Italics
-
-    This is *emphasized* _text_.
-    
-5. Emphasis: Strong
-
-    This is very heavily **emphasized** __text__.
-    
-6. Headers
-    # First-level heading
-
-    #### Fourth-level heading
-
-7. Horizontal Rules
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-    
-    
-    
-    
-    
-    
-
-    
-    
+## Community :beers:
+- [GitHub](http://bit.ly/2AWWzkD)
+- [Twitter](http://bit.ly/2z8BUJZ)
+- [Facebook Group](http://bit.ly/2jcca8t)
